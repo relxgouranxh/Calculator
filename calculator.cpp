@@ -26,7 +26,7 @@ class calculator{
     }
 
     double percentage(double x,double y){
-        return (x*y)/100;
+        return (x/y)*100
     }
 
 
